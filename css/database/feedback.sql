@@ -31,7 +31,7 @@ CREATE TABLE `feedback` (
   `remarks`     text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 --
--- Table structure for table `user`
+
 --
 CREATE TABLE `user` (
   `id`         int(11) NOT NULL PRIMARY KEY AUTO_INCREMENT,
