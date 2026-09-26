@@ -220,9 +220,7 @@
 
 <script>
 
-    // =========================
-    // DOM ELEMENTS
-    // =========================
+   
 
     const board = document.getElementById("board");
     const message = document.getElementById("message");
